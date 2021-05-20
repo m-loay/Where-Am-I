@@ -54,7 +54,7 @@ AMCL has to be integerated into `my_robot` package
 
 	- Also i noted when i do more navigation in small areas in the map , the robot   will localize itself more quickly.
 
-	- If I leave the initial position quickly without navigating through it, the robot will not localize itself correctly but when the robot returns to the start point then it will localize the position accurately.
+	- If the staarting psoition is initialized correctly , robot will loclaize it self much faster and accuretly.
 
 
 --- 
