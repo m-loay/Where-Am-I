@@ -1,7 +1,7 @@
 # Where Am I
 In this project the goal was to implement Adaptive Monte Carlo Localization (AMCL) package based robot localization within ROS framework.
 
-![alt text](img/amcl.gif)
+![alt text](img/amcl_laser.gif)
 
 --- 
 ## Directory Structure
